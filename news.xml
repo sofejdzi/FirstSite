@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Love Yourself</title>
+		<link>http://sajtovistudenata.ict.edu.rs/339_17</link>
+		<description>Love Yourself products, shop our exciting range of makeup products.</description>
+		<item>
+			<title>News</title>
+			<link>http://sajtovistudenata.ict.edu.rs/339_17/Index.html</link>
+			<description>News channel emiting discounts, events and other important notifications regarding Love Yourself products.</description>
+		</item>
+		<item>
+			<title>Skincare</title>
+			<link>http://sajtovistudenata.ict.edu.rs/339_17/Skincare.html</link>
+			<description>Skincare products channel, get notified when Love Yourself products are available on new locations.</description>
+		</item>
+	</channel>
+</rss>
